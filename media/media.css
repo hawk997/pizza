@@ -1,0 +1,219 @@
+@media(max-width: 910px){
+    .main-box{
+        margin-top: 0;
+        margin-bottom: 0;
+        flex-direction: column;
+    }
+    .main-menu{
+        flex-direction: column;
+    }
+    .main__right{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .content-girl{
+        margin: 0 auto;
+    }
+    .content-ingredient{
+      
+    }
+    .content-composition{
+        margin-left: 0;
+        display: flex;
+        flex-direction: column;
+    }
+    .content-composition h2{
+        margin-top: 15px;
+        margin-bottom: 15px;
+        
+    }
+    .content-price{
+        margin-left: 40px;
+    }
+}
+@media(max-width: 722px){
+    .nav{
+       display: flex;
+       margin-top: 15px;
+    }
+    .btn{
+       margin-top: 0;
+       margin-left: 10px;
+    }
+    .header__link{
+        display: flex;
+        align-items: center;
+    }
+    footer .nav{
+        padding-bottom: 15px;
+        padding-top: 15px;
+    } 
+    footer .tel{
+
+    }
+    footer .footer-btn{
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 10px;
+    }
+    .header__text h2{
+        font-size: 65px;
+    }
+}
+@media(max-width: 670px){
+    .logo h2{
+        font-size: 30px;
+    }
+    .tel{
+        font-size: 18px;
+    }
+    .btn{
+        padding: 15px 15px;
+    }
+    .header__text h3{
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .header__text h2{
+        font-size: 55px;
+    }
+    .main__right h2{
+        font-size: 30px;
+    }
+    .main-content{
+        width: 100%;
+        text-align: center;
+    }
+    .logo h2{
+        font-size: 27px;
+    }
+}
+@media(max-width: 580px){
+    .nav{
+        align-items: center;
+    }
+    .header__link{
+        display: flex;
+        flex-direction: column;
+    }
+    .tel{
+        margin-bottom: 5px;
+    }
+    .header__text h2{
+        font-size: 45px;
+    }
+    .main__right p{
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .main__right h2{
+        font-size: 25px;
+        margin-bottom: 35px;
+    }
+    .header__text h3{
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .header__text h4{
+        font-size: 14px;
+    }
+    .footer-content h2{
+        font-size: 14px;
+        margin-top: 5px;
+        margin-bottom: 35px;
+    }
+    .main-menu{
+        margin-bottom: 25px;
+    }
+    .main-content h1{
+        margin-bottom: 25px;
+    }
+    .content-review{
+        margin-top: 35px;
+        margin-bottom: 30px;
+    }
+}
+@media(max-width: 420px){
+    .content-ingredient{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .content-price h2{
+        margin-bottom: 10px;
+    }
+    .content-price{
+        margin: 0;
+    }
+    .box h3{
+        margin-right: 30px;
+    }
+    .main__right h2{
+        font-size: 22px;
+    }
+    .content-girl{
+        max-width: 320px;
+    }
+    .content-composition h2{
+        font-size: 26px;
+    }
+    .content-price h2{
+        font-size: 25px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    .header__text h2{
+        font-size: 35px;
+    }
+}
+@media(max-width: 385px){
+    .nav{
+        flex-direction: column;
+    }
+    .tel{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .box h3{
+        margin-right: 10px;
+    }
+    .header__text h2{
+        font-size: 33px;
+        margin-bottom: 20px;
+    }
+    .header__text h3{
+        font-size: 12px;
+        margin-bottom: 16px;
+    }
+    .header__text h4{
+        margin-bottom: 30px;
+    }
+    .content-girl p{
+        font-size: 13px;
+        line-height: 22px;
+        margin-top: 8px;
+    }
+    .footer-content h2{
+        font-size: 12px;
+    }
+    .main__right h2{
+        margin-bottom: 28px;
+    }
+}
+@media(max-width: 380px){
+    .main__right h2{
+        margin-bottom: 18px;
+    }
+    .main__right h2{
+        font-size: 18px;
+    }
+    .footer-content h2{
+        font-size: 11px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    footer .nav{
+        padding-bottom: 0;
+        margin-top: 8px;
+    }
+}
